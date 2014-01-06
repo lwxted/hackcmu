@@ -1,0 +1,18 @@
+"Skibo Cafe","Grilled Panini","Three Cheese","6.25","",0
+"Skibo Cafe","Grilled Panini","Grilled Veggie","6.25","4",1
+"Skibo Cafe","Grilled Panini","Club","6.25","",0
+"Skibo Cafe","Grilled Panini","Ham & Cheddar","6.25","",0
+"Skibo Cafe","Grilled Panini","Skibo","6.25","",0
+"Skibo Cafe","Oven Baked Subs","Italian","6.25","",0
+"Skibo Cafe","Oven Baked Subs","Tuna","6.25","",0
+"Skibo Cafe","Oven Baked Subs","Meatball","6.25","",0
+"Skibo Cafe","Oven Baked Subs","Roast Veggie Melt","6.25","",0
+"Skibo Cafe","Oven Roast Chicken Sandwiches","Southern Style","6.25","",0
+"Skibo Cafe","Oven Roast Chicken Sandwiches","Tuscan","6.25","",0
+"Skibo Cafe","Oven Roast Chicken Sandwiches","BBQ Chicken","6.25","",0
+"Skibo Cafe","Oven Roast Chicken Sandwiches","Chicken Parmesan","6.25","",0
+"The Exchange","Sandwiches","Corned Beef","6.15","",0
+"The Exchange","Sandwiches","Roast Beef","6.15","",0
+"The Exchange","Sandwiches","Specialty Meat","6.15","",0
+"The Exchange","Sandwiches","Ham","5.80","",0
+"The Exchange","Sandwiches","Turkey","5.80","",0

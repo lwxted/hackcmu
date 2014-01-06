@@ -1,0 +1,4 @@
+"Skibo Cafe","NA","4.0","30","","900","200"
+"Asiana","NA","3.8","40","Located in the Atrium of Newell-Simon Hall, Asiana offers Chinese and Pacific Rim entrées, soups and snacks, from fresh hot foods to fresh ready-to-go items. Whether you're on the move or ready to relax a meal in the Atrium, Asiana's is ready and happy to serve you.","1030","1930"
+"Carnegie Mellon Cafe","NA","3.5","10","Stop by the Carnegie Mellon Café for hot breakfast served all day. Entrées include omelets, Belgian waffles, fluffy buttermilk pancakes, stuffed French toast and eggs made your way. Enjoy classic American diner sandwiches, wraps and flatbread sandwiches. Be sure and save room for premium hand dipped ice cream, banana splits, signature sundaes and malted milkshakes.","730","0"
+"The Exchange","NA","4.2","60","Founded by Tepper and Warfa in the 1960s, The Exchange is famous for being CMU's only restaurant that serves stuff that can be categorized as food.","800","1900"
